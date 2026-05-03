@@ -12,7 +12,7 @@ hide:
 </div>
 
 <div class="home-panel">
-  <p>这是我的个人知识库，基于 <a href="https://www.mkdocs.org/" target="_blank" rel="noopener">MkDocs</a> 搭建，使用 <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">Material</a> 主题。</p>
+  <p>您好，我叫alex，是一名具身智能算法工程师，基于 <a href="https://www.mkdocs.org/" target="_blank" rel="noopener">MkDocs</a> 搭建，使用 <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">Material</a> 主题。</p>
   <p>在这里，我记录了具身领域的VLA/VLM/WAM 的技术笔记，欢迎随意浏览。</p>
 </div>
 
