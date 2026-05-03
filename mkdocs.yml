@@ -18,8 +18,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
-repo_url: https://github.com/yourname/yourrepo
-repo_name: yourname/yourrepo
+repo_url: https://github.com/34328/wiki
+repo_name: 34328/wiki
 nav:
   - 主页: index.md
   - 具身paper:
